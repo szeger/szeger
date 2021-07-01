@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @szeger
-- 👀 I’m interested in the development and use of statistical reasoning and methods to improve the public's health
+- 👀 I’m interested in the development and use of statistical reasoning and methods to improve the public's health.
 - 🌱 I’m currently learning how to develop and share methods for improved clinical decision making.
-- 💞️ I’m looking to collaborate on methods and applications that use data to make better clinical decisions 
+- 💞️ I’m looking to collaborate on statistical methods, software, and applications. 
 - 📫 You can reach me at sz@jhu.edu.
 
 <!---
